@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_open"
+        android:title="@string/open" />
+    <item
+        android:id="@+id/item_change_official"
+        android:title="@string/change_official" />
+    <item
+        android:id="@+id/item_change_bilibili"
+        android:title="@string/change_bilibili" />
+    <item
+        android:id="@+id/item_change_international"
+        android:title="@string/change_international" />
+    <item
+        android:id="@+id/item_delete"
+        android:title="@string/delete" />
+</menu>

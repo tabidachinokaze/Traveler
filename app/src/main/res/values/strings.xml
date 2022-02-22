@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Traveler</string>
+    <string name="open">Open</string>
+    <string name="change_official">Change to official</string>
+    <string name="change_bilibili">Change to bilibili</string>
+    <string name="change_international">Change to international</string>
+    <string name="delete">Delete</string>
+    <string name="permission_obtained_successfully">Android/data access permission was obtained successfully.</string>
+    <string name="permission_obtained_failed">Android/data access permission was obtained failed.</string>
+    <string name="not_permission">Without Android/data access, click Get.</string>
+    <string name="not_game">Game is not installed!</string>
+    <string name="game_data">Games Data</string>
+    <string name="delete_message">Confirm to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="deleted_message">Deleted</string>
 </resources>

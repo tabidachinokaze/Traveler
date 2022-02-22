@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">旅行者</string>
+    <string name="open">打开</string>
+    <string name="change_official">转官服</string>
+    <string name="change_bilibili">转B服</string>
+    <string name="change_international">转外服</string>
+    <string name="delete">删除</string>
+    <string name="permission_obtained_successfully">已获取 Android/data 访问权限</string>
+    <string name="permission_obtained_failed">未获取 Android/data 访问权限</string>
+    <string name="not_permission">没有 Android/data 访问权限，点击获取</string>
+    <string name="not_game">游戏未安装！</string>
+    <string name="game_data">游戏数据</string>
+    <string name="delete_message">确定要删除数据吗？w(ﾟДﾟ)w</string>
+    <string name="no">不确定(/▽＼)</string>
+    <string name="yes">确定</string>
+    <string name="deleted_message">已删除</string>
+</resources>
